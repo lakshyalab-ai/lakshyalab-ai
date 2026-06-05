@@ -1,14 +1,14 @@
-# Hi 👋, I'm Lakshya
+# Hi I'm Lakshya
 
-🎓 B.Tech CSE Student
+ B.Tech CSE Student
 
-🌱 Currently Learning:
+ Currently Learning:
 - Python
 - C Programming
 - Git & GitHub
 - Web Development
 
-🚀 Goals:
+ Goals:
 - Build Real Projects
 - Contribute to Open Source
 - Become a Software Developer
